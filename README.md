@@ -14,7 +14,7 @@ SWD est une application qui permet d'avoir des informations concernant la saga S
 * Stockage de données en cache ( Stockages des données des planetes ) 
 
 # Screenshots
-![](s
+(Screenshots/Screenshot_1.jpg)
 
 # Perspectives d'améliorations 
 
