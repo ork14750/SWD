@@ -3,15 +3,15 @@
 # Présentation
 
 SWD est une application qui permet d'avoir des informations concernant la saga Star Wars. Pour ce faire, on fait appel à l'API "SWAPI",
-(https://swapi.dev/)
+
 
 
 # Fonctionnalités
 
-* Ecran avec une liste de planetes de la saga
-* Ecran avec le détail des planetes.
-* Appel WebService à une API Rest.
-* Stockage de données en cache ( Stockages des données des planetes ) 
+* Ecran avec une liste de planètes de la saga
+* Ecran avec des informations par rapport à la planète sélectionnée.
+* Appel WebService à une API Rest (https://swapi.dev/).
+* Stockage de données en cache ( Stockages des données des planètes ) 
 
 # Screenshots
 ![](Screenshots/pic_1.jpg)  ![](Screenshots/pic_2.jpg) 
@@ -19,6 +19,6 @@ SWD est une application qui permet d'avoir des informations concernant la saga S
 
 # Perspectives d'améliorations 
 
-* Ajout de nouvelles planetes dans la base de donnée
-* Ajout de données concernant les personnages, les vaisseaux, les véhicle de la saga
+* Ajout de nouvelles planètes dans la base de donnée
+* Ajout de données concernant les personnages, les vaisseaux, les véhicules de la saga
 * Amélioration de l'interface graphique
